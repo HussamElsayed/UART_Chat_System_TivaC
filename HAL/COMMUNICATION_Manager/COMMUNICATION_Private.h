@@ -1,0 +1,14 @@
+/*
+ * COMMUNICATION_Private.h
+ *
+ *  Created on: Sep 7, 2023
+ *      Author: mo2a's
+ */
+
+#ifndef HAL_COMMUNICATION_MANAGER_COMMUNICATION_PRIVATE_H_
+#define HAL_COMMUNICATION_MANAGER_COMMUNICATION_PRIVATE_H_
+
+void sendNewLine(void);
+
+
+#endif /* HAL_COMMUNICATION_MANAGER_COMMUNICATION_PRIVATE_H_ */
